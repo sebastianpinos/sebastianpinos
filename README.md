@@ -29,6 +29,7 @@
 ### Programming
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
+![Rust](https://img.shields.io/badge/Rust-000?logo=rust)
 ![C%23](https://img.shields.io/badge/C%23-000?logo=csharp)
 ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3)
