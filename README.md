@@ -47,3 +47,14 @@
 ![SQLite](https://img.shields.io/badge/SQLite-000?logo=sqlite)
 
 ---
+
+<div align="center">
+  
+<a href="https://github.com/sebastianpinos">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sebastianpinos&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+</a>
+<a href="https://github.com/sebastianpinos">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianpinos&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
+</a>
+
+</div>
